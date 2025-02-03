@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saywall
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 
 <!---
 Saywall/Saywall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
